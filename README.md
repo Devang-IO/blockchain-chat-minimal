@@ -2,7 +2,7 @@
 
 This project is a blockchain application that uses Ganache, Hardhat, and MetaMask for development and testing. Below are the setup and run instructions to help you get started.
 
-##Screenshots
+## Screenshots
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/4d0dbc29-8ae6-46f5-bb3e-3a6af7fa2d8c" alt="Screenshot 1" height="300px" style="margin-right: 5px;">
