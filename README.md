@@ -2,6 +2,13 @@
 
 This project is a blockchain application that uses Ganache, Hardhat, and MetaMask for development and testing. Below are the setup and run instructions to help you get started.
 
+<p align="center">
+  <img src="screenshots/ganache-setup.png" alt="Ganache Setup" width="45%" style="margin-right: 5px;">
+  <img src="screenshots/metamask-import.png" alt="MetaMask Configuration" width="45%">
+</p>
+
+![Screenshot 2024-11-06 120948](https://github.com/user-attachments/assets/4d0dbc29-8ae6-46f5-bb3e-3a6af7fa2d8c)  ![Screenshot 2024-11-06 120926](https://github.com/user-attachments/assets/4e8c766d-5878-46f2-a7ae-b4a5211be2af)
+
 ## Prerequisites
 
 - [Node.js](https://nodejs.org/) installed
